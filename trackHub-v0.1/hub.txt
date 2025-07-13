@@ -1,0 +1,7 @@
+
+hub hba-x-FIRE-fiberseq
+shortLabel hba-x-FIRE-fiberseq
+longLabel hba-x-FIRE-fiberseq
+genomesFile genomes.txt
+email mvollger.edu
+descriptionUrl fire-description.html
